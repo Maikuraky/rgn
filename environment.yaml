@@ -1,0 +1,9 @@
+name: rgn
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python =2.7
+  - numpy
+  - setproctitle
+  - tensorflow =1.12 
