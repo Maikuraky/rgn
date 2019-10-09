@@ -6,4 +6,4 @@ dependencies:
   - python =2.7
   - numpy
   - setproctitle
-  - tensorflow =1.12 
+  - tensorflow-gpu =1.12
